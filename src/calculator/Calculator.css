@@ -16,6 +16,8 @@
   align-items: flex-end;
   padding: 10px;
   font-size: 30px;
+  justify-content: space-around;
+  flex-direction: column;
 }
 
 .button-box {
@@ -26,4 +28,14 @@
   justify-content: right;
   align-items: center;
   padding: 10px;
+}
+
+.button {
+  width: 100%;
+  height: 100%;
+}
+
+.prevCalculate {
+  font-size: 20px;
+  color: darkgrey;
 }
