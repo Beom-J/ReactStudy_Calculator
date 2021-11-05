@@ -1,0 +1,9 @@
+button {
+  width: 25%;
+  height: 20%;
+}
+
+.zero,
+.reset {
+  width: 50%;
+}

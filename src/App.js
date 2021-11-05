@@ -1,7 +1,13 @@
-import Calculator from './calculator/Calculator';
+import Calculator from "./calculator/Calculator";
 
-function App(){
-  return <Calculator/>
+
+
+
+
+const App = () => {
+  return (
+    <Calculator/>
+  )
 }
 
 export default App;
